@@ -4,7 +4,7 @@ From the course "Modern HTML & CSS From The Beginning (Including Sass)" by Brad 
 
 https://www.udemy.com/course/modern-html-css-from-the-beginning
 
-### Live Demo: https://demo.archet.no/edgeledger
+### Live Demo: https://archet.no/edgeledger
 
 > ## Topic: Learning to use Flex
 
